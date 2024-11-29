@@ -2,7 +2,7 @@ import cv2 as cv # type: ignore
 
 img = cv.imread('Resources/Photos/cat_large.jpg')
 
-#cv.imshow('Cat', img)
+cv.imshow('Cat', img)
 
 #Reading Video
 
